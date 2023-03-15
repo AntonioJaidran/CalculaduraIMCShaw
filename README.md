@@ -5,7 +5,7 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 
 
 ## :camera_flash: Screenshots
-![imc shaw](https://user-images.githubusercontent.com/124733299/225438564-9b975f9f-89bb-4f63-abfc-8958a04be58d.png)
+![imcccc](https://user-images.githubusercontent.com/124733299/225444657-3bfcfffa-491f-4696-985f-140e6d96791a.png)
 
 ## Tecnologias
 * Kotlin

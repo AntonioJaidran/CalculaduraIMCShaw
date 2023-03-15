@@ -5,6 +5,8 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 
 
 ## :camera_flash: Screenshots
+![s](https://user-images.githubusercontent.com/124733299/225431587-7f3605ca-81b2-457c-b053-14407f941ca5.png)
+![Screenshot_20230212_120133](https://user-images.githubusercontent.com/124733299/225431668-c2003a73-7af7-49fa-a5e0-ff5d85e51bdd.png)
 <!-- You can add more screenshots here if you like -->
 <img src="/result/image1.png" width="260">&emsp;<img src="/result/image2.png" width="260">&emsp;<img src="/result/image3.png" width="260">
 
